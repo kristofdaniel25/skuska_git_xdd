@@ -2,4 +2,5 @@ napríklad dopíšeme
 		zopár
 		     riadkov
 			  a súbor uložíme,
-pridany riadok
+				pridany riadok
+
